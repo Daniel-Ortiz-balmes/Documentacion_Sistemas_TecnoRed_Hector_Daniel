@@ -1,0 +1,9 @@
+Inventario de pc de empresa
+
+componentes a comprar:
+
+CPU: Intel i7 12500f
+RAM: 16gb DDR4 3200hz
+SSD: 512gb ssd
+
+Sistema operativo: WIN 11 pro
