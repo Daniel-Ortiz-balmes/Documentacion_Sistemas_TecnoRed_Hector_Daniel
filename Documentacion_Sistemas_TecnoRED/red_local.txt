@@ -6,4 +6,6 @@ Que dispositivos hay?
 ·Routers
 ·Switch
 ·PCs
-...
+…
+
+·Nuevo Switch
