@@ -1,3 +1,4 @@
-Tipos de ususarios de la empresa:
+Tipos de usuarios de la empresa:
+
 ·Administrador
 ·Usuario Normal

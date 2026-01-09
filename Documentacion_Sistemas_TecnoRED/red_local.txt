@@ -1,4 +1,5 @@
-Que es una red local?
+¿Que es una red local?
+
 Es un conjunto de dispositivos conectados entre ellos en un espacio privado y limitado.
 
 Que dispositivos hay?
