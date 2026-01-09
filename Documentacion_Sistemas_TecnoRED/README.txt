@@ -6,22 +6,33 @@ El sistema está pensado para ser utilizado por distintos perfiles. Por un lado,
 
 
 
+¿Por qué la empresa usa Git y no carpetas normales?
+
+	Para que las personas de la empresa puedan acceder y trabajar todos con las mismas carpetas, pero si se hace con carpetas normales en ese caso solo trabaja una persona y no se tendría en cuanta que cambios se han hecho y quien los 	ha hecho.
+
+
+¿Qué ventaja tiene GitHub frente a un USB? 
+
+	Oues se puede acceder desde cualquier lugar y un USB se te puede perder y perder toda la información.
+
+
 
 
 ¿Qué pasaría si alguien borra un archivo por error?
 
-Con Git no pasa nada grave:
+	Con Git no pasa nada grave:
 
-Se puede recuperar el archivo desde un commit anterior y Se puede restaurar sin perder el resto del trabajo, Sin Git, el archivo estaría perdido para siempre.
+	Se puede recuperar el archivo desde un commit anterior y Se puede restaurar sin perder el resto del trabajo, Sin Git, el archivo estaría perdido para siempre.
+
 
 
 
 ¿Por qué es importante escribir bien los commits?
 
-Porque los commits son el historial del proyecto:
+	Porque los commits son el historial del proyecto:
 
-Facilitan entender qué se ha hecho paso por paso
+	Facilitan entender qué se ha hecho paso por paso
 
-Ayudan a encontrar errores rápidamente
+	Ayudan a encontrar errores rápidamente
 
-Mejoran el trabajo en equipo
+	Mejoran el trabajo en equipo
